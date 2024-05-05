@@ -34,4 +34,4 @@ The company aims to leverage data science and machine learning techniques to imp
    - Explore generative models to generate new layout designs based on existing ones.
    - Implement recommendation systems to suggest alternative designs based on customer preferences and requirements.
 
-5.**The file ProjectDS.ipynb has all the solution to all the questions mentioned above
+5. **The file ProjectDS.ipynb has all the solution to all the questions mentioned above
